@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+
+# 课程报告：含学号姓名，不公开
+signals-and-systems/报告/
+
+# 视频成片：体积大，用脚本可以重新生成
+*.mp4
+*.gif
+
+# 激光雕刻：原图和输出都是真人照片，只公开脚本
+laser-engrave/*.png
+laser-engrave/*.webp
+laser-engrave/*.jpg

@@ -1,0 +1,15 @@
+ 
+Fw =
+ 
+-(2*E*sin((tau*w)/2))/w
+ 
+ 
+Gw =
+ 
+(2*E*sin((tau*w)/2))/w
+ 
+ 
+f2 =
+ 
+exp(t*w0*1i)/(2*pi)
+ 
